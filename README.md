@@ -96,3 +96,17 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+## Trying my best to revise backend concepts using Nest 
+
+- Gonna try retyping this stuff as less as possible, no edits, 
+- The point for this repo is to become better at 3 things: 
+    -   Build a multi-service mono repo based on oop principles
+    -   Become better at typescript
+    -   Become better at building backends: 
+    1. using slonik and typeorm, 
+    2. building out an auth service 
+    3. using oop
+    4. Properly building out apis - swagger docs, using property decorators 
+    5. One of the services is a leetcode solver
+- Scope of this project shouldn't be too long, to be finished before October 17th 2025. 
